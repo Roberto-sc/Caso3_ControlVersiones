@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roberto\\Desktop\\Proyecto analisis\\ProyectoGym_FrontEnd\\Gym_CapaPresentacion\\Gym_CapaPresentacion.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto\\Desktop\\Caso estudio #3\\Caso3_ControlVersiones\\Gym_CapaPresentacion\\Gym_CapaPresentacion.csproj",
       "projectName": "Gym_CapaPresentacion",
-      "projectPath": "C:\\Users\\Roberto\\Desktop\\Proyecto analisis\\ProyectoGym_FrontEnd\\Gym_CapaPresentacion\\Gym_CapaPresentacion.csproj",
+      "projectPath": "C:\\Users\\Roberto\\Desktop\\Caso estudio #3\\Caso3_ControlVersiones\\Gym_CapaPresentacion\\Gym_CapaPresentacion.csproj",
       "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roberto\\Desktop\\Proyecto analisis\\ProyectoGym_FrontEnd\\Gym_CapaPresentacion\\obj\\",
+      "outputPath": "C:\\Users\\Roberto\\Desktop\\Caso estudio #3\\Caso3_ControlVersiones\\Gym_CapaPresentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
